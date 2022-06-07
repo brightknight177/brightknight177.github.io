@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## brightknight177.github.io
 
 You can use the [editor on GitHub](https://github.com/brightknight177/brightknight177.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
